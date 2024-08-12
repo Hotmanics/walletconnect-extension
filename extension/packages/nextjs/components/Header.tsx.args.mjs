@@ -1,0 +1,1 @@
+export const connectButton = `<w3m-button />`;
